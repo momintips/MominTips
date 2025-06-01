@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 👋 Hi, I’m @MOMIN
+- 👋 Hi, I’m MOMIN
 - 👀 I’m interested in my creating programming
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on my Instagram
