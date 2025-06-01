@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termux Logo</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+        }
+        canvas {
+            border: 2px solid #00ff00;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="logoCanvas" width="200" height="200"></canvas>
+    <script>
+        const canvas = document.getElementById("logoCanvas");
+        const ctx = canvas.getContext("2d");
+
+        // Background
+        ctx.fillStyle = "black";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        // Draw Termux logo (Green Slash)
+        ctx.strokeStyle = "#00ff00";
+        ctx.lineWidth = 8;
+        ctx.beginPath();
+        ctx.moveTo(40, 160);
+        ctx.lineTo(160, 40);
+        ctx.stroke();
+    </script>
+</body>
+</html>
