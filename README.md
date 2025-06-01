@@ -1,5 +1,5 @@
 <!--
-**momintips/MominTips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**momintips/MominTips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ^***no about***^
 
-<!---
-MOMINUR600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mominur600&theme=github)
 
